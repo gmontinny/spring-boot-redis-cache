@@ -3,7 +3,7 @@
 
 Context:
 
-  - [**Começando**](#getting-started)
+  - [**Comecando**](#comecando)
   - [**Maven Dependencies**](#maven-dependencies)
   - [**Redis Configuration**](#redis-configuration)
   - [**Spring Service**](#spring-service)
@@ -12,7 +12,7 @@ Context:
   - [**Endpoints com Swagger**](#endpoints-with-swagger)
 
 
-## Começando
+## Comecando
 
 Neste projeto, foi usado Redis para cache com Spring Boot.
 Ao enviar qualquer solicitação para obter todos os clientes ou cliente por id, você aguardará 3 segundos se o Redis não tiver dados relacionados.
