@@ -142,13 +142,13 @@ public class CustomerServiceImpl implements CustomerService {
 	}
 
 	private void waitSomeTime() {
-		System.out.println("Long Wait Begin");
+		System.out.println("Inicio do consumo do BANCO");
 		try {
 			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
-		System.out.println("Long Wait End");
+		System.out.println("Fim do consumo do BANCO");
 	}
 
 }
