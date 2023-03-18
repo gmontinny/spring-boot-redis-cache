@@ -160,7 +160,7 @@ public class CustomerServiceImpl implements CustomerService {
 Dockerfile:
 
 ```
-FROM openjdk:8
+FROM openjdk:17
 ADD ./target/spring-boot-redis-cache-0.0.1-SNAPSHOT.jar /usr/src/spring-boot-redis-cache-0.0.1-SNAPSHOT.jar
 WORKDIR usr/src
 ENTRYPOINT ["java","-jar", "spring-boot-redis-cache-0.0.1-SNAPSHOT.jar"]
