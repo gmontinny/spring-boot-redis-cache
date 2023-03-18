@@ -8,8 +8,8 @@ Context:
   - [**Redis Configuration**](#redis-configuration)
   - [**Spring Service**](#spring-service)
   - [**Docker & Docker Compose**](#docker-docker-compose)
-  - [**Fazendo Build & Rodando a Aplicação**](#build-run-application)
-  - [**Endpoints com Swagger**](#endpoints-with-swagger)
+  - [**Fazendo Build & Rodando a Aplicação**](#fazendo-build-rodando-aplicação)
+  - [**Endpoints com Swagger**](#endpoints-com-swagger)
 
 
 ## Comecando
