@@ -8,8 +8,8 @@ Context:
   - [**Redis Configuration**](#redis-configuration)
   - [**Spring Service**](#spring-service)
   - [**Docker & Docker Compose**](#docker-docker-compose)
-  - [**Build & Run Application**](#build-run-application)
-  - [**Endpoints with Swagger**](#endpoints-with-swagger)
+  - [**Fazendo Build & Rodando a Aplicação**](#build-run-application)
+  - [**Endpoints com Swagger**](#endpoints-with-swagger)
 
 
 ## Começando
@@ -205,7 +205,7 @@ services:
       - cache
 ```
 
-## Build & Run Application
+## Fazendo Build & Rodando a Aplicação
 
 * Build Java Jar.
 
